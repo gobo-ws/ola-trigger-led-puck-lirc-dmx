@@ -1,6 +1,8 @@
 **OLA trigger config to be used with LIRC to send infra-red commands using DMX (Art-Net, sACN or via DMX input.**  
 **Control Eurolite LED Puck Light multicolor IP68 and similar models.**
 
+![LED Puck Light](https://raw.githubusercontent.com/gobo-ws/ola-trigger-led-puck-lirc-dmx/master/led_puck_light.jpg)
+
 **Requirements**
 
 * [OLA](https://www.openlighting.org/ola/)
