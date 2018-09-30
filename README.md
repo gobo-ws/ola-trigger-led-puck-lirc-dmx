@@ -19,4 +19,4 @@
 * Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.  
 The config file is provided on the command line:
 
-`ola_trigger lirc.conf`
+`ola_trigger led_puck_light.conf`
