@@ -12,7 +12,7 @@
 **Installation**
   
 * Download the [led_puck_light.conf](led_puck_light.conf) file.
-* Download the [led_puck_light.lirc.conf](led_puck_light.lirc.conf) file, rename and copy it to the right LIRC directory.
+* Download the [led_puck_light.lirc.conf](led_puck_light.lirc.conf) file, rename and copy it to the right LIRC directory  
 
 [OLA trigger documentation](https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
